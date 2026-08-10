@@ -5,4 +5,5 @@ TheLowの多機能HUD・ユーティリティModです。
 
 -> 右の Release タブにmodファイルがあります ->
 
+↓超適当に作った説明サイト
 https://www.5ura-app.com/Matatabi/
